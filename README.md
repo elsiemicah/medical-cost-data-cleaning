@@ -1,4 +1,4 @@
-[requirements.txt](https://github.com/user-attachments/files/17693249/requirements.txt)# Medical Cost Data Cleaning Project
+# Medical Cost Data Cleaning Project
 
 ## Overview
 This project focuses on cleaning and preprocessing the Medical Cost Personal Dataset by encoding categorical variables, removing outliers, and standardizing features to prepare the dataset for further analysis.
