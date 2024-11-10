@@ -4,8 +4,8 @@
 This project focuses on cleaning and preprocessing the Medical Cost Personal Dataset by encoding categorical variables, removing outliers, and standardizing features to prepare the dataset for further analysis.
 
 ## Project Structure
-- `[www](https://www.kaggle.com/datasets/mirichoi0218/insurance)/`: Contains the dataset.
-- `[notebooks](https://www.kaggle.com/code/elsiemicah/deep-data-cleaning)/`: Contains Jupyter Notebook with code and explanations.
+- `[Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)/`: Contains the dataset.
+- `[Deep Data Cleaning](https://www.kaggle.com/code/elsiemicah/deep-data-cleaning)/`: Contains Jupyter Notebook with code and explanations.
 
 ## Data Cleaning Steps
 1. **Initial Data Inspection**: Examined data types, missing values, and initial distributions.
