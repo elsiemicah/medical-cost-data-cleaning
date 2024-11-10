@@ -6,6 +6,7 @@ This project focuses on cleaning and preprocessing the Medical Cost Personal Dat
 ## Project Structure
 - `[Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)/`: Contains the dataset.
 - `[Deep Data Cleaning](https://www.kaggle.com/code/elsiemicah/deep-data-cleaning)/`: Contains Jupyter Notebook with code and explanations.
+- `[Images](https://github.com/user-attachments/files/17693249/image.png)/`:  Contains visualizations of data distributions before and after cleaning.
 
 ## Data Cleaning Steps
 1. **Initial Data Inspection**: Examined data types, missing values, and initial distributions.
