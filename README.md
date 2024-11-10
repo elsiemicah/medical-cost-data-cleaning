@@ -25,3 +25,8 @@ This project focuses on cleaning and preprocessing the Medical Cost Personal Dat
 
 ## License
 [MIT License](LICENSE)
+
+## Contact Information
+For inquiries or feedback, please contact me at:
+- Email: micahelsie099@gmail.com
+- GitHub: https://github.com/elsiemicah
