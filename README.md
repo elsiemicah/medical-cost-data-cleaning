@@ -18,7 +18,7 @@ This project focuses on cleaning and preprocessing the Medical Cost Personal Dat
 
 
 ## Setup and Usage
-1. Clone the repository: `git clone https://github.com/elsiemicah/repository.git
+1. Clone the repository: `git clone https://github.com/elsiemicah/medical-cost-data-cleaning.git
 2. Install dependencies: [requirements.txt](https://github.com/user-attachments/files/17693249/requirements.txt)
 
 3. Run the Jupyter Notebook.
